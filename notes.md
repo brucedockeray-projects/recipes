@@ -34,8 +34,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brucedockeray-projects/recipes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-Link to Recipe 1 recipe1
-[Link to recipe 1](recipe1.md)
 
 ### Support or Contact
 
