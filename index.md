@@ -6,8 +6,8 @@ I will keep notes on how they turned out.
 
 ### Recipes
 
-1.[Link to recipe 1](recipe1.md)
-2.[Asparagus](asparagus.md) 
+1. [Link to recipe 1](recipe1.md)
+2. [Asparagus](asparagus.md) 
 
 ### Useful links
 

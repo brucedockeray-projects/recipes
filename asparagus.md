@@ -1,8 +1,9 @@
-asparagus
+##Asparagus
+
 
 Lots of different ways. Always delicious even if it does give your urine a strange smell.
 
-Boiling.
+###Boiling.
 --------
 
 Blanch for around 4 minutes. Then refresh with cold water. 
@@ -12,13 +13,13 @@ olive oil & sesame oil
 salt
 
 
-Frying 
+###Frying 
 ------
 
 Fry in butter. Can top with sliced almonds.
 
 
-Roasting
+###Roasting
 --------
 
 
